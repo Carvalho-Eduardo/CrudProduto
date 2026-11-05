@@ -1,3 +1,9 @@
+<p align="center">
+  🇺🇸 English | 🇧🇷 <a href="README.pt-BR.md">Português</a>
+</p>
+
+---
+
 # Product Management System | CRUD
 
 A web application for managing products, built with Java, JSP, JDBC, and MySQL. The system provides complete CRUD operations through a responsive and user-friendly interface.
