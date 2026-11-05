@@ -1,0 +1,18 @@
+# Arquivos gerados pelo NetBeans
+/build/
+/dist/
+
+# Configurações privadas da IDE
+/nbproject/private/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração local do banco
+/src/java/persistencia/ConfiguracaoBancoLocal.java
+/src/java/persistencia/banco.properties
+
+# Arquivos de ambiente
+.env
+.env.*
