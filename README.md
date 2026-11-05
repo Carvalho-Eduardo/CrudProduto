@@ -121,4 +121,32 @@ Configure these environment variables on your system before running the applicat
 ### How to Run
 
 1. Install the JDK and Apache NetBeans.
-2. Install
+2. Install and configure MySQL.
+3. Create the database and table.
+4. Configure the database environment variables.
+5. Open the project in NetBeans.
+6. Configure Apache Tomcat.
+7. Run the project from NetBeans.
+
+### Learning Outcomes
+
+This project provided practical experience with:
+
+- Java web development using JSP.
+- CRUD operations with JDBC.
+- MySQL database integration.
+- Layered application architecture.
+- Responsive web interface development.
+- Environment-based configuration.
+
+### Author
+
+**Eduardo Carvalho**
+
+Systems Analysis and Development student.
+
+- GitHub: [Carvalho-Eduardo](https://github.com/Carvalho-Eduardo)
+- LinkedIn: [Eduardo Carvalho](https://linkedin.com/in/e-duardo-carvalho/)
+
+---
+
